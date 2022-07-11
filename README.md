@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cypryanskipawel
 - 👀 I’m interested in Cloud solutions
 - 🌱 I’m currently learning PowerShell 
-- 💞️ I’m looking to collaborate in developing project
+- 💞️ I’m looking to collaborate in project development
 - 📫 How to reach me cypryanskipawel@gmail.com
 
 <!---
